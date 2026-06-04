@@ -96,25 +96,25 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 
 <div align="center">
 
-### GitHub Stats & Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamcodes&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=30363d&border_radius=10)](https://github.com/shyamcodes)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamcodes&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_color=30363d&border_radius=10)](https://github.com/shyamcodes)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyamcodes&theme=tokyonight&hide_border=false&border_radius=10&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff)](https://github.com/shyamcodes)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shyamcodes&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&border_radius=10)](https://github.com/shyamcodes)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamcodes&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
----
+<div align="center">
 
-## 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamcodes&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 <div align="center">
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shyamcodes&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_color=30363d&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyamcodes&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shyamcodes&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
