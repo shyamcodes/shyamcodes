@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shyam Veer Singh</h1>
-<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Shyam Veer Singh</h1>
+  <h3>A passionate Web Developer from India 🇮🇳</h3>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyamcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shyamcodes" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyamcodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyamcodes&theme=onedark" alt="trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shyamcodes&theme=onedark" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -23,7 +25,7 @@
 - **Email:** veerchauhan0211@gmail.com  
 
 ### 📄 Resume
-- [View Resume](https://www.overleaf.com/project/663db773433c3a40692441c7)
+- [View Resume](https://www.overleaf.com/read/your-public-link-here)
 
 ---
 
@@ -52,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <!-- Express icon not available in devicon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
@@ -62,14 +64,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shyamcodes&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamcodes&layout=compact&theme=tokyonight"/>
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamcodes&theme=tokyonight"/>
-</p>
+</div>
