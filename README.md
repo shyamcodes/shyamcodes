@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Web Developer** with expertise in modern web technologies. I love building responsive and interactive web applications and continuously learning new technologies to stay ahead in the tech industry.
+I'm a passionate **Full-Stack Web Developer** with expertise in modern web technologies and backend frameworks. I love building responsive and interactive web applications and continuously learning new technologies to stay ahead in the tech industry.
 
 - 🌍 Based in **India**
-- 💻 Specializing in **React.js, Node.js & Express**
+- 💻 Specializing in **React.js, Node.js, Express, Spring Boot & Python**
 - 🎯 Always eager to learn and explore new tech stacks
 - ⚡ Fun fact: I love solving DSA problems on LeetCode
 
@@ -23,7 +23,9 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 
 ```
 ▸ React.js & Next.js - Advanced Concepts
+▸ Spring Boot - Enterprise Java Development
 ▸ Java & Data Structures & Algorithms (DSA)
+▸ Python for Backend & Automation
 ▸ TypeScript for scalable applications
 ```
 
@@ -33,8 +35,9 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 
 ```
 ▸ Frontend Development → React, JavaScript, HTML/CSS
-▸ Backend Development → Node.js, Express, REST APIs
+▸ Backend Development → Node.js, Express, Spring Boot, Python
 ▸ Databases → MongoDB, MySQL
+▸ Enterprise Applications → Spring Boot & Java
 ▸ Full-Stack Development & Web Architecture
 ```
 
@@ -65,6 +68,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -73,6 +77,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,13 +96,25 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamcodes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/shyamcodes)
+### GitHub Stats & Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamcodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/shyamcodes)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamcodes&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=30363d&border_radius=10)](https://github.com/shyamcodes)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyamcodes&theme=tokyonight&hide_border=true)](https://github.com/shyamcodes)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamcodes&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_color=30363d&border_radius=10)](https://github.com/shyamcodes)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shyamcodes&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/shyamcodes)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyamcodes&theme=tokyonight&hide_border=false&border_radius=10&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff)](https://github.com/shyamcodes)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shyamcodes&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&border_radius=10)](https://github.com/shyamcodes)
+
+</div>
+
+---
+
+## 📈 Most Used Languages
+
+<div align="center">
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shyamcodes&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_color=30363d&border_radius=10)
 
 </div>
 
@@ -108,6 +125,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 - 📧 **Email:** [veerchauhan0211@gmail.com](mailto:veerchauhan0211@gmail.com)
 - 💼 **LinkedIn:** [Shyam Chauhan](https://linkedin.com/in/shyam-chauhan-3870a6250)
 - 📱 **Twitter:** [@rahull_chauhan_](https://twitter.com/rahull_chauhan_)
+- 🎯 **LeetCode:** [rchauhan8358](https://www.leetcode.com/rchauhan8358)
 
 ---
 
@@ -122,5 +140,5 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Keep+Learning!+%F0%9F%92%A1" alt="Footer" />
 </div>
